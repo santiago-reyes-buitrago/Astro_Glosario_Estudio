@@ -1,0 +1,6 @@
+[submodule "02-pokemon-static"]
+	path = 02-pokemon-static
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_astro_pokemon_static.git
+[submodule "01-foundation"]
+	path = 01-foundation
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_astro_bases.git
