@@ -4,3 +4,6 @@
 [submodule "01-foundation"]
 	path = 01-foundation
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_astro_bases.git
+[submodule "03-blog"]
+	path = 03-blog
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_astro_blog.git
