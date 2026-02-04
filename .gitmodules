@@ -7,3 +7,6 @@
 [submodule "03-blog"]
 	path = 03-blog
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_astro_blog.git
+[submodule "04-astro-http"]
+	path = 04-astro-http
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_astro_SSR.git
